@@ -1,3 +1,3 @@
-module git.sqcorp.co/go/protobuf
+module github.com/golang/protobuf
 
 go 1.14
