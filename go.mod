@@ -1,3 +1,3 @@
-module github.com/golang/protobuf
+module github.com/alokmenghrajani/protostub
 
 go 1.14
