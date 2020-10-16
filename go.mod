@@ -1,2 +1,1 @@
-module github.com/golang/protobuf/proto
-
+module github.com/alokmenghrajani/protostub
